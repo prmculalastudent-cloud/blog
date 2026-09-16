@@ -17,8 +17,7 @@ export default function Home() {
         </p>
 
         <p>
-          My favorite music is pop and jazz, and my favorite food is Filipino
-          food is Adobo. In five years, I see myself having a stable career, improving
+          My favorite music is pop and jazz, and my favorite food is Adobo. In five years, I see myself having a stable career, improving
           my skills, and achieving my goals in life.
         </p>
 
